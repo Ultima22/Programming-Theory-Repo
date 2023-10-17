@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Programming Theory Project Menu.unity
+    guid: 6913dfbc40f90b34f98ac0a94e2ebc18
+  - enabled: 1
+    path: Assets/Scenes/Programming Theory Project Main.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}
